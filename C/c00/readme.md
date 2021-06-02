@@ -56,7 +56,7 @@ void	ft_putchar(char c)
 ```
 ---
 
-### :wrench: :beetle: Test and debug :
+### :wrench: :beetle: Test and debug:
 
 
 ```c
@@ -82,9 +82,224 @@ int	main(void) /* Entry point of a program written in C */
 
 ---
 
+### :dart: Task:
+
 </p>
 <p align="center">
 <img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/01.jpg" width="1200">
 <p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+
+## :information_source: ex02/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/02.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+## :information_source: ex03/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/03.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+## :information_source: ex04/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/04.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+## :information_source: ex05/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/05.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+## :information_source: ex06/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/06.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+## :information_source: ex07/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/07.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
+
+---
+## :information_source: ex08/
+
+---
+
+### :dart: Task:
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/08.jpg" width="1200">
+<p/>
+
+---
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+```
+---
+
+### :wrench: :beetle: Test and debug:
+
+
+```c
+
+```
 
 ---
