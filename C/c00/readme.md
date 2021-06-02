@@ -56,9 +56,8 @@ void	ft_putchar(char c)
 ```
 ---
 
-### :wrench: :beatle: Test and debug :
+### :wrench: :beetle: Test and debug :
 
----
 
 ```c
 int	main(void) /* Entry point of a program written in C */
@@ -76,5 +75,16 @@ int	main(void) /* Entry point of a program written in C */
 	return EXIT_SUCCESS; /* Return 0 instead*/
 }
 ```
+
+---
+
+## :information_source: ex01/
+
+---
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/01.jpg" width="1200">
+<p/>
 
 ---
