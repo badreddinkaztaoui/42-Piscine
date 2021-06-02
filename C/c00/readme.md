@@ -31,7 +31,7 @@
 
 ---
 
-## ex00 :
+## :information_source: ex00/
 
 
 </p>
