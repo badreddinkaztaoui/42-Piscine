@@ -33,10 +33,48 @@
 
 ## :information_source: ex00/
 
+---
+
+### :dart: Task :
 
 </p>
 <p align="center">
 <img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/00.jpg" width=1200>
 <p/>
+
+---
+
+#### :hammer: Function prototype:
+```c
+
+#include <unistd.h>
+
+void	ft_putchar(char c)
+{
+	write(1, &c, 1);
+}
+```
+---
+
+### :wrench: :beatle: Test and debug :
+
+---
+
+```c
+int	main(void) /* Entry point of a program written in C */
+{
+	printf("-----\n"); /* Forbiden function!! */
+		printf("First output is : \n"); /* Message */
+	ft_putchar('@'); /* Print a character */
+	printf("\n-----\n");
+		printf("Second output is : \n");
+	ft_putchar('A');
+	printf("\n-----\n");
+		printf("Third output is : \n");
+	ft_putchar('0');
+		printf("\n-----\n");
+	return EXIT_SUCCESS; /* Return 0 instead*/
+}
+```
 
 ---
