@@ -179,6 +179,15 @@ void	ft_print_reverse_alphabet(void) /* Define a function that will reverse alph
 
 ```c
 
+int	main(void)
+{
+	printf("----------------------------------\n");
+	printf("Print reversed aphabets in the standard output : \n\n");
+	ft_print_reverse_alphabet();
+	printf("\n\n----------------------------------\n");
+	return (EXIT_SUCCESS);
+}
+
 ```
 
 ---
@@ -199,14 +208,6 @@ void	ft_print_reverse_alphabet(void) /* Define a function that will reverse alph
 
 #include <unistd.h>
 
-int	main(void) /* Entry point */
-{
-	printf("----------------------------------\n");
-	printf("Print reversed aphabets in the standard output : \n\n");
-	ft_print_reverse_alphabet(); /*This function takes no parameters*/
-	printf("\n\n----------------------------------\n");
-	return (EXIT_SUCCESS);
-}
 
 ```
 ---
