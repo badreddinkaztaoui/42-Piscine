@@ -6,11 +6,11 @@
 
 ---
 
-| C00 | Problems                 | Solutions                                                                                                                |
-|---  |---                       |---                                                                                                                       |
-|ex00 |ft_putchar                |[ft_putchar](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/ft_putchar.c)                        |
-|ex01 |ft_print_alphabet         |[ft_print_alphabet](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/ft_print_alphabet.c)   |
-|ex02 |ft_print_reverse_alphabet |[ft_print_reverse_alphabet]()|
+| C00 | Problems                 | Solutions                                                                                                                | Commented version                                                                              |
+|---  |---                       |---                                                                                                                       |---                                                                                             |
+|ex00 |ft_putchar                |[ft_putchar](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/ft_putchar.c)                        |[fullcode00](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/fullcode.c)|
+|ex01 |ft_print_alphabet         |[ft_print_alphabet](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/ft_print_alphabet.c)   |[fullcode01](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/fullcode.c)|
+|ex02 |ft_print_reverse_alphabet |[ft_print_reverse_alphabet]()| 
 |ex03 |ft_print_numbers          |[ft_print_numbers]()|
 |ex04 |ft_is_negative            |[ft_is_negative]()|
 |ex05 |ft_print_comb             |[ft_print_comb]()|
@@ -31,7 +31,7 @@
 
 ---
 
-### ---------------------------------------[THE FULLCODE VERSION IS COMMENTED]---------------------------------------
+### --------------------------------------[THE FULLCODE VERSION IS COMMENTED]---------------------------------------
 
 ## :information_source: ex00/
 
@@ -51,9 +51,18 @@
 
 #include <unistd.h>
 
-void	ft_putchar(char c)
+void	ft_print_alphabet(void) /* Define a function that will print alphabets */
 {
-	write(1, &c, 1);
+	char	ltr; /* Declaration of a variable that will store an ascii value*/
+
+	ltr = 'a'; /* initialize my variable with character 'a' */
+	while (ltr <= 'z') /* We want to print a through z, abcde...z so we use while loop to repeat steps
+						first character is 'a' and the last is 'z', so technically reaching z is the stop condition
+						*/
+	{
+		write(1, &ltr, 1); /*write character by character*/
+		ltr++; /* Iteration by 1 step at a time */
+	}
 }
 ```
 ---
@@ -97,6 +106,20 @@ int	main(void) /* Entry point of a program written in C */
 
 #include <unistd.h>
 
+void	ft_print_alphabet(void) /* Define a function that will print alphabets */
+{
+	char	ltr; /* Declaration of a variable that will store an ascii value*/
+
+	ltr = 'a'; /* initialize my variable with character 'a' */
+	while (ltr <= 'z') /* We want to print a through z, abcde...z so we use while loop to repeat steps
+						first character is 'a' and the last is 'z', so technically reaching z is the stop condition
+						*/
+	{
+		write(1, &ltr, 1); /*write character by character*/
+		ltr++; /* Iteration by 1 step at a time */
+	}
+}
+
 ```
 ---
 
@@ -104,6 +127,16 @@ int	main(void) /* Entry point of a program written in C */
 
 
 ```c
+
+
+int	main(void) /* Entry point */
+{
+	printf("--------------------------------------------\n");
+	printf("Printing alphabets in the standard output: \n\n");
+	ft_print_alphabet(); /* Function call */
+	printf("\n\n--------------------------------------------\n");
+	return (EXIT_SUCCESS); /* Terminate instructions and return 0 */
+}
 
 ```
 
@@ -125,6 +158,19 @@ int	main(void) /* Entry point of a program written in C */
 ```c
 
 #include <unistd.h>
+
+void	ft_print_reverse_alphabet(void) /* Define a function that will reverse alphabets */
+{
+	char	ltr; /* Declaration of a variable that will contain a character */
+
+	ltr = 'z'; /* Initialize my variable with z */
+	while (ltr >= 'a') /* Loop through ascii values till the stop condition */
+	{
+		write(1, &ltr, 1); /* Write evert character passed as parameter after checking the condition */
+		ltr--; /* Decrement till the condition is satisfied */
+	}
+}
+
 
 ```
 ---
@@ -153,6 +199,15 @@ int	main(void) /* Entry point of a program written in C */
 ```c
 
 #include <unistd.h>
+
+int	main(void) /* Entry point */
+{
+	printf("----------------------------------\n");
+	printf("Print reversed aphabets in the standard output : \n\n");
+	ft_print_reverse_alphabet(); /*This function takes no parameters*/
+	printf("\n\n----------------------------------\n");
+	return (EXIT_SUCCESS);
+}
 
 ```
 ---
