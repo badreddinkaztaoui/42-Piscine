@@ -6,7 +6,15 @@
 
 <img src="https://github.com/Alaamimi/Piscine-42/blob/master/ressources/1337.jpg" width="55">
 
----    
+--- 
+
+</p>
+<p align="center">  
+<img src="https://blog.dexem.com/wp-content/uploads/2018/10/giphy.gif" width="600">
+</p>
+
+---
+
 ## :information_source: 1337 School (42 Network) :
 ---
 </p>
@@ -18,20 +26,23 @@
 ## About 42 && 1337 School :
 ---
 
-This project is a programming bootcamp concerning 1337 school, it lasts roughly 
-4 weeks, working 7 days a week, day and night. (error 404 sleep will never be found)
-These bootcamp covers the basics of programming so there's no need to have any experience at
-all. People will try and will fail, over and over again. This trial-and-error
+This project is a programming bootcamp concerning 1337 school [42 Network], it lasts roughly 
+4 weeks, working 7 days a week, day and night. YES!![Error 404 sleep will never be found!]
+This bootcamp covers the basics of programming so there's no need to have any experience at
+all. 
+Along the Piscine people will try and will fail, over and over again. This trial-and-error
 process is necessary in order to find solutions to different problems that 
 once thought impossible. People learn in groups with other
-students, without teachers. It can be done, and it works.
+students, without teachers [Peer2Peer Learning]. It can be done, and it works.
+
+:speaker:
 
 > If you're going through hell, keep going. ― Winston Churchill
 
 > keep this in mind!
 
 ---
-## Holy graph :
+## :ok_hand: Holy graph :
 ---
 
 </p>
