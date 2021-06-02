@@ -6,17 +6,17 @@
 
 ---
 
-| C00 | Problems                 | Solutions                                                                                                                | Commented version                                                                              |
-|---  |---                       |---                                                                                                                       |---                                                                                             |
-|ex00 |ft_putchar                |[ft_putchar](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/ft_putchar.c)                        |[fullcode00](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/fullcode.c)|
-|ex01 |ft_print_alphabet         |[ft_print_alphabet](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/ft_print_alphabet.c)   |[fullcode01](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/fullcode.c)|
-|ex02 |ft_print_reverse_alphabet |[ft_print_reverse_alphabet]()| 
-|ex03 |ft_print_numbers          |[ft_print_numbers]()|
-|ex04 |ft_is_negative            |[ft_is_negative]()|
-|ex05 |ft_print_comb             |[ft_print_comb]()|
-|ex06 |ft_print_comb2            |[ft_print_comb2]()|
-|ex07 |ft_putnbr                 |[ft_putnbr]()|
-|ex08 |ft_print_combn            |[ft_print_combn]()|
+| C00 | Problems                 | Solutions                                                                                                                                     | Commented version                                                                                             |
+|---  |---                       |---                                                                                                                                            |---                                                                                                            |
+|ex00 |ft_putchar                |[ft_putchar](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/ft_putchar.c)                                             |[fullcode00](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex00(ft_putchar)/fullcode.c)               |
+|ex01 |ft_print_alphabet         |[ft_print_alphabet](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/ft_print_alphabet.c)                        |[fullcode01](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex01(ft_print_alphabet)/fullcode.c)        |
+|ex02 |ft_print_reverse_alphabet |[ft_print_reverse_alphabet](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex02(ft_print_reverse_alphabet)/ft_print_reverse_alphabet.c)|[fullcode02](https://github.com/alaamimi/42-Piscine/blob/main/C/c00/ex02(ft_print_reverse_alphabet)/fullcode.c)|
+|ex03 |ft_print_numbers          |[ft_print_numbers]()|[fullcode03]()|
+|ex04 |ft_is_negative            |[ft_is_negative]()|[fullcode04]()|
+|ex05 |ft_print_comb             |[ft_print_comb]()|[fullcode05]()|
+|ex06 |ft_print_comb2            |[ft_print_comb2]()|[fullcode06]()|
+|ex07 |ft_putnbr                 |[ft_putnbr]()|[fullcode07]()|
+|ex08 |ft_print_combn            |[ft_print_combn]()|[fullcode08]()|
 
 ---
 
