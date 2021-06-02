@@ -6,7 +6,7 @@
 /*   By: alaamimi <alaamimi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/02 16:47:44 by alaamimi          #+#    #+#             */
-/*   Updated: 2021/06/02 18:42:11 by alaamimi         ###   ########.fr       */
+/*   Updated: 2021/06/02 19:18:05 by alaamimi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ void	ft_print_alphabet(void) /* Define a function that will print alphabets */
 
 	ltr = 'a'; /* initialize my variable with character 'a' */
 	while (ltr <= 'z') /* We want to print a through z, abcde...z so we use while loop to repeat steps
-						first character is 'a' and the last is 'z', so technically reaching z is the stop condition
+					the first character is 'a' and the last is 'z', so technically reaching z is the stop condition
 						*/
 	{
 		write(1, &ltr, 1); /*write character by character*/
