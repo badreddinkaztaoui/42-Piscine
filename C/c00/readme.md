@@ -28,3 +28,15 @@
 <p align="center">
 <img src="https://i1.wp.com/twofoottalk.com/wp-content/uploads/2020/02/giphy-7.gif?resize=480%2C270&ssl=1" width=600>
 <p/>
+
+---
+
+## ex00 :
+
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/00.jpg" width=600>
+<p/>
+
+---
