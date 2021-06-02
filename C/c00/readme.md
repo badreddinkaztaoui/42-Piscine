@@ -36,7 +36,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/00.jpg" width=600>
+<img src="https://github.com/alaamimi/42-Piscine/blob/main/C/c00/Ressources/00.jpg" width=1200>
 <p/>
 
 ---
