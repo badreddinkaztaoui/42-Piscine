@@ -57,8 +57,7 @@ void	ft_print_alphabet(void) /* Define a function that will print alphabets */
 
 	ltr = 'a'; /* initialize my variable with character 'a' */
 	while (ltr <= 'z') /* We want to print a through z, abcde...z so we use while loop to repeat steps
-						first character is 'a' and the last is 'z', so technically reaching z is the stop condition
-						*/
+	first character is 'a' and the last is 'z', so technically reaching z is the stop condition */
 	{
 		write(1, &ltr, 1); /*write character by character*/
 		ltr++; /* Iteration by 1 step at a time */
