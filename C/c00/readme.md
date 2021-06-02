@@ -26,7 +26,7 @@
 
 </p>
 <p align="center">
-<img src="https://i1.wp.com/twofoottalk.com/wp-content/uploads/2020/02/giphy-7.gif?resize=480%2C270&ssl=1" width=600>
+<img src="https://i1.wp.com/twofoottalk.com/wp-content/uploads/2020/02/giphy-7.gif?resize=480%2C270&ssl=1" width=1200>
 <p/>
 
 ---
